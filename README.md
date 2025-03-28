@@ -11,7 +11,7 @@ PriceLookupApp is a web application that allows users to search for prices of va
 - User can scan UPC-A, UPC-E, and EAN-8 barcodes
 
 ## Access the site here:
-- [PriceLookupApp on Heroku](https://pricelookupapp-0cef366c2ad6.herokuapp.com/)
+- [PriceLookupApp on Heroku](https://pricelookupapp-0cef366c2ad6.herokuapp.com/) - Link is currently not working (Unable to afford the service)
 
 ## If you wish to test the web application, you can try testing the following barcodes:
 - 147082 - Charms Sweet n' sour pops - $0.25

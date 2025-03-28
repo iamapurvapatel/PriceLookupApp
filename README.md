@@ -7,7 +7,7 @@ PriceLookupApp is a web application that allows users to search for prices of va
 - Search for products by barcode
 - Use a barcode scanner or type in the barcode number
 - User-friendly interface that displays product details and prices
-- Barcode Scanner being used currently - Symbol LS9208 Omni-directional and Single Line Barcode scanner
+- On Windows PC - Barcode Scanner being used currently - Symbol LS9208 Omni-directional and Single Line Barcode scanner
 - User can scan UPC-A, UPC-E, and EAN-8 barcodes
 
 ## Access the site here:
